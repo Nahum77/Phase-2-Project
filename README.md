@@ -3,6 +3,7 @@
 ## The King County House Project
 
 ### Author : Nahum Odemba
+link to tableu: https://public.tableau.com/app/profile/nahum.odemba/viz/KingsCountyHouseSales/Dashboard1?publish=yes
 
 ## Overview 
 

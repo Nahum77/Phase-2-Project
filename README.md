@@ -4,6 +4,10 @@
 
 ### Author : Nahum Odemba
 
+## Overview 
+
+For this project, I use multiple linear regression modeling to analyze house sales in King County.
+
 ## Business Understanding
 
 * King County is located in the U.S state of Washington.
